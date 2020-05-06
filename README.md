@@ -1,3 +1,3 @@
 # Backer
 
-> **Ba**sh Pa**ck**age Manag**er** :smile:
+> `Ba`sh Pa`ck`age Manag`er` :smile:
