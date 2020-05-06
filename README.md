@@ -1,2 +1,3 @@
-# backer
-BAsh paCKage mangagER =)
+# Backer
+
+> **Ba**sh Pa**ck**age Manag**er** :smile:
