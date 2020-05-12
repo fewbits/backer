@@ -14,6 +14,8 @@ ___
 - **When**: The user types `backer create my-shell-script`
 - **Then**: A new Shell Script called "my-shell-script" is created in the current path based on a well designed template/skelethon
 
+___
+
 - **Scenario**: Shell Script with same name already exists
 - **Given**: The user has `backer` properly installed
 - **And**: There's a Shell Script called "my-shell-script" in the currend path
